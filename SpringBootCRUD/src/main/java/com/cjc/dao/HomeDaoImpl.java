@@ -79,4 +79,10 @@ public class HomeDaoImpl implements HomeDao{
 		return slist;
 	}
 
+	@Override
+	public Student createRecord(int id) {
+		System.out.println("create record to push into git");
+		return null;
+	}
+
 }
