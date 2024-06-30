@@ -14,7 +14,7 @@ public interface HomeDao {
 	
 	public Student createRecord(int id);
 	
-	public void vivek();
+	public void bhagwat();
 	
 	public List<Student> updateRecord(Student s);
 	
