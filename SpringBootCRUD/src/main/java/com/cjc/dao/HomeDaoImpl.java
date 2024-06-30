@@ -85,4 +85,11 @@ public class HomeDaoImpl implements HomeDao{
 		return null;
 	}
 
+	@Override
+	public void vivek() {
+		System.out.println("hi vivek");
+		// TODO Auto-generated method stub
+		
+	}
+
 }
