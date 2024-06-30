@@ -12,6 +12,8 @@ public interface HomeDao {
 	
 	public Student editRecord(int id);
 	
+	public Student createRecord(int id);
+	
 	public List<Student> updateRecord(Student s);
 	
 	public List<Student> deleteRecord(int id);
